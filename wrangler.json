@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "polladas1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cf78c9db-5aec-4438-8f66-75a40e2e4e30",
+			"database_name": "tickets"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
